@@ -1,5 +1,5 @@
 I'm Parastoo Afshar — M.Sc. student in Computer Engineering (Software) at K. N. Toosi University of Technology.  
-Interested in software development, algorithms, and system design.
+Interested in Software Development, Algorithms, and System design.
 
 [![Parastoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=parastooafshar&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
