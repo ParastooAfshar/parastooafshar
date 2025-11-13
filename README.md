@@ -1,11 +1,11 @@
-I'm Parastoo Afshar, M.Sc. student in Computer Engineering (Software) at  [K. N. Toosi University of Technology](https://ce.kntu.ac.ir/en/).  
+I'm Parastoo Afshar, **M.Sc. student in Computer Engineering - Software** at [K. N. Toosi University of Technology](https://ce.kntu.ac.ir/en/).  
+<hr style="border: 1px solid #000; width: 100%;">
 
 ⚡Research Interests:
-- 💻 **Software Development**  
-- 🧠  **Algorithms** 
-- ☁️ **Distributed Systems** 
-
-[![Parastoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=parastooafshar&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- 💻 **Software Reliability & Verification**  
+- 🧠 **Algorithms** 
+- ☁️ **Distributed & Cloud Systems**
+- 🕹️ **Reinforcement Learning**
 
 <!--
 **ParastooAfshar/parastooafshar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
