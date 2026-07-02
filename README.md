@@ -1,7 +1,7 @@
 I'm Parastoo Afshar, **M.Sc. student in Computer Engineering, Software** at [K. N. Toosi University of Technology](https://ce.kntu.ac.ir/en/).  
 <hr style="border: 1px solid #000; width: 100%;">
 
-⚡Research Interests: 
+Research Interests: 
 - AI for Software Engineering
 - Large Language Models
 - Reinforcement Learning
